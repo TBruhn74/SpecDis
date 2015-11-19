@@ -26,5 +26,3 @@ System Requirements
 SpecDis is tested under Windows 7 SP1 and Suse Linux Enterprise Server 11.3, Windows 8 has not been fully tested but the Win7 version  should work correctly. For Windows 7  (and 8) Specdis has to be installed on a partioned disk other than c:\, otherwise one might get administrator-right problems.Win XP and Vista are no longer supported!
 
 The Interface to Gnuplot is tested up to version 5.0, png plotting will work with gnuplot 4.6 and higher only!
-
-If you have any questions or suggestions feel free to send an email to torsten.bruhn@uni-wuerzburg.de 
